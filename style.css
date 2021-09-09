@@ -1,0 +1,10 @@
+body {
+  background: darkcyan;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+  font-size: 56px;
+  padding-top: 40px;
+}
